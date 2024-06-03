@@ -28,9 +28,9 @@ const App = () => (
         <Business />
         <Billing />
         <CardDeal />
+        <Testimonials />
         <Clients />
         <CTA />
-        <Testimonials />
         <Footer />
       </div>
     </div>
